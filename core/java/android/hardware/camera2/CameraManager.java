@@ -25,7 +25,7 @@ import android.annotation.SystemService;
 import android.annotation.TestApi;
 import android.app.compat.CompatChanges;
 import android.compat.annotation.ChangeId;
-import android.compat.annotation.EnabledSince;
+import android.compat.annotation.Disabled;
 import android.compat.annotation.Overridable;
 import android.app.ActivityThread;
 import android.content.Context;
@@ -117,7 +117,7 @@ public final class CameraManager {
      */
     @ChangeId
     @Overridable
-    @EnabledSince(targetSdkVersion = android.os.Build.VERSION_CODES.TIRAMISU)
+    @Disabled
     public static final long OVERRIDE_CAMERA_LANDSCAPE_TO_PORTRAIT = 250678880L;
 
     /**
