@@ -61,7 +61,8 @@ public class PixelPropsUtils {
     };
 
     private static final String[] packagesToChangePixelXL = {
-            "com.google.android.apps.photos"
+            "com.google.android.apps.photos",
+            "com.snapchat.android"
     };
 
     private static final String[] extraPackagesToChange = {
@@ -69,8 +70,7 @@ public class PixelPropsUtils {
             "com.android.vending",
             "com.breel.wallpapers20",
             "com.microsoft.android.smsorganizer",
-            "com.nothing.smartcenter",
-            "com.snapchat.android"
+            "com.nothing.smartcenter"
     };
 
     private static final String[] customGoogleCameraPackages = {
