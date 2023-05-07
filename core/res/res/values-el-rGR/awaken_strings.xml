@@ -21,8 +21,8 @@
     <string name="reboot_to_recovery_message">Επανεκκίνηση σε recovery\u2026</string>
     <string name="reboot_to_bootloader_title">Επανεκκίνηση σε bootloader</string>
     <string name="reboot_to_bootloader_message">Επανεκκίνηση σε bootloader\u2026</string>
-    <string name="reboot_title">Reboot</string>
-    <string name="reboot_message">Rebooting system</string>
+    <string name="reboot_title">Επανεκκίνηση</string>
+    <string name="reboot_message">Επανεκκίνηση συστήματος</string>
     <!-- App lock -->
     <string name="unlock_application">Ξεκλείδωμα <xliff:g id="label" example="Telegram">%1$s</xliff:g></string>
     <!-- Button that copies the url to the log of a crashed application -->
@@ -37,9 +37,13 @@
     <string name="pocket_lock_message_long_press">Πατήστε παρατεταμένα το κουμπί λειτουργίας για ξεκλείδωμα</string>
     <!-- Pocket View -->
     <string name="pocket_view_title">Η λειτουργία τσέπης είναι ενεργοποιημένη</string>
-    <string name="pocket_view_title_cancel">Για να χρησιμοποιήσετε το τηλέφωνό σας:</string>
-    <string name="pocket_view_top_tag_cancel">Ελέγξτε εάν η μπλε περιοχή του τηλεφώνου σας είναι καθαρή από τυχόν εμπόδια και καθαρίστε τη βρωμιά ή τη σκόνη.</string>
+    <string name="pocket_view_title_cancel">To activate your phone:</string>
+    <string name="pocket_view_top_tag_cancel">Please do not cover the blue area of your phone and clear any dirt or dust off it.</string>
     <string name="pocket_view_top_tag_cancel2">Πατήστε παρατεταμένα το κουμπί λειτουργίας για αναγκαστική έξοδο από τη λειτουργία τσέπης.</string>
+    <!-- PowerOffAlarmService -->
+    <string name="notification_channel_poweroff_alarm">Power off alarm</string>
+    <string name="poweroff_alarm_title">Power off alarm set</string>
+    <string name="poweroff_alarm_body">An alarm was detected and the device will power on 2 minutes before it\'s due</string>
     <!-- Title of an application permission, listed so the user can choose whether they want to allow the application to do this. -->
     <string name="permlab_fakePackageSignature">Μίμηση υπογραφής πακέτου</string>
     <!-- Description of an application permission, listed so the user can choose whether they want to allow the application to do this. -->

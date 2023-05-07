@@ -16,10 +16,10 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <!-- Advanced Reboot -->
-    <string name="global_action_restart_advanced">Advanced</string>
-    <string name="global_action_restart_recovery">Recovery</string>
+    <string name="global_action_restart_advanced">Zaawansowane</string>
+    <string name="global_action_restart_recovery">Przywracanie</string>
     <string name="global_action_restart_bootloader">Bootloader</string>
-    <string name="global_action_restart_ui">SystemUI</string>
+    <string name="global_action_restart_ui">Interfejs systemu</string>
     <!-- Ambient display QS tile -->
     <string name="quick_settings_ambient_display_label">Ekran dostosowany do otoczenia</string>
     <string name="accessibility_quick_settings_ambient_display_off">Ekran dostosowany do otoczenia wyłączony.</string>
@@ -78,7 +78,7 @@
     <string name="heads_up_snooze_message_one_minute"><xliff:g id="string">%s</xliff:g> - Wyskakujące powiadomienia są wstrzymane na 1 minutę.</string>
     <string name="heads_up_snooze_message"><xliff:g id="string">%1$s</xliff:g> - Wyskakujące powiadomienia są wstrzymane na <xliff:g id="number">%2$d</xliff:g> minut.</string>
     <!-- Label for area where tiles can be added to the qs panel -->
-    <string name="drag_or_tap_to_add_tiles">Hold &amp; drag or tap to add tiles</string>
+    <string name="drag_or_tap_to_add_tiles">Przytrzymaj &amp; przeciągnij lub dotknij, aby dodać kafelki</string>
     <!-- Mono QS Tile -->
     <string name="quick_settings_monotoggle_tile">Tryb dźwięku</string>
     <string name="quick_settings_monotoggle_tile_mono">Dźwięk mono</string>

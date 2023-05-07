@@ -16,10 +16,10 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <!-- Advanced Reboot -->
-    <string name="global_action_restart_advanced">Advanced</string>
+    <string name="global_action_restart_advanced">Για προχωρημένους</string>
     <string name="global_action_restart_recovery">Recovery</string>
     <string name="global_action_restart_bootloader">Bootloader</string>
-    <string name="global_action_restart_ui">SystemUI</string>
+    <string name="global_action_restart_ui">ΣύστημαUI</string>
     <!-- Ambient display QS tile -->
     <string name="quick_settings_ambient_display_label">Οθόνη Ambient</string>
     <string name="accessibility_quick_settings_ambient_display_off">Οθόνη Αmbient ανενεργή.</string>
@@ -78,7 +78,7 @@
     <string name="heads_up_snooze_message_one_minute"><xliff:g id="string">%s</xliff:g> - Η αναδυόμενη ειδοποίηση αναβάλλεται για 1 λεπτό.</string>
     <string name="heads_up_snooze_message"><xliff:g id="string">%1$s</xliff:g> - Οι αναδυόμενες ειδοποιήσεις αναβάλλονται για <xliff:g id="number">%2$d</xliff:g> λεπτά.</string>
     <!-- Label for area where tiles can be added to the qs panel -->
-    <string name="drag_or_tap_to_add_tiles">Hold &amp; drag or tap to add tiles</string>
+    <string name="drag_or_tap_to_add_tiles">Κρατήστε &amp; σύρετε ή πατήστε για να προσθέσετε πλακίδια</string>
     <!-- Mono QS Tile -->
     <string name="quick_settings_monotoggle_tile">Λειτουργία ήχου</string>
     <string name="quick_settings_monotoggle_tile_mono">Μονοφωνικός ήχος</string>

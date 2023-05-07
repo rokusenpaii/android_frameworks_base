@@ -16,10 +16,10 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <!-- Advanced Reboot -->
-    <string name="global_action_restart_advanced">Advanced</string>
+    <string name="global_action_restart_advanced">Lanjutan</string>
     <string name="global_action_restart_recovery">Recovery</string>
     <string name="global_action_restart_bootloader">Bootloader</string>
-    <string name="global_action_restart_ui">SystemUI</string>
+    <string name="global_action_restart_ui">SistemUI</string>
     <!-- Ambient display QS tile -->
     <string name="quick_settings_ambient_display_label">Tampilan Ambien</string>
     <string name="accessibility_quick_settings_ambient_display_off">Tampilan Ambien nonaktif.</string>
@@ -78,7 +78,7 @@
     <string name="heads_up_snooze_message_one_minute"><xliff:g id="string">%s</xliff:g> - Notifikasi mengambang ditunda selama 1 menit.</string>
     <string name="heads_up_snooze_message"><xliff:g id="string">%1$s</xliff:g> - Notifikasi mengambang ditunda selama <xliff:g id="number">%2$d</xliff:g> menit.</string>
     <!-- Label for area where tiles can be added to the qs panel -->
-    <string name="drag_or_tap_to_add_tiles">Hold &amp; drag or tap to add tiles</string>
+    <string name="drag_or_tap_to_add_tiles">Tahan &amp; tarik atau ketuk untuk menambahkan ubin</string>
     <!-- Mono QS Tile -->
     <string name="quick_settings_monotoggle_tile">Mode Audio</string>
     <string name="quick_settings_monotoggle_tile_mono">Audio Mono</string>

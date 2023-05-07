@@ -37,9 +37,13 @@
     <string name="pocket_lock_message_long_press">Appuyez et maintenez le bouton marche/arrêt pour déverrouiller</string>
     <!-- Pocket View -->
     <string name="pocket_view_title">Le mode poche est activé</string>
-    <string name="pocket_view_title_cancel">Pour utiliser votre téléphone :</string>
-    <string name="pocket_view_top_tag_cancel">Vérifiez que la zone de détection du téléphone est propre, et nettoyez toute saleté ou poussière.</string>
+    <string name="pocket_view_title_cancel">To activate your phone:</string>
+    <string name="pocket_view_top_tag_cancel">Please do not cover the blue area of your phone and clear any dirt or dust off it.</string>
     <string name="pocket_view_top_tag_cancel2">Appuyez longuement sur le bouton d\'arrêt pour quitter le mode poche.</string>
+    <!-- PowerOffAlarmService -->
+    <string name="notification_channel_poweroff_alarm">Power off alarm</string>
+    <string name="poweroff_alarm_title">Power off alarm set</string>
+    <string name="poweroff_alarm_body">An alarm was detected and the device will power on 2 minutes before it\'s due</string>
     <!-- Title of an application permission, listed so the user can choose whether they want to allow the application to do this. -->
     <string name="permlab_fakePackageSignature">Spoof package signature</string>
     <!-- Description of an application permission, listed so the user can choose whether they want to allow the application to do this. -->
